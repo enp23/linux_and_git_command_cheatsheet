@@ -12,5 +12,5 @@
 11. Create a new branch and switch into it: **git checkout -b**
 12. Display history of commits made: **git log**
 13. Combines changes from a branch into another branch: **git merge**
-14. Delete a local branch: **git branch -d**
+14. Delete a local branch (after merging): **git branch -d**
 15. Display the staging area and working directory: **git status**
