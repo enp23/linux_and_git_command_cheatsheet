@@ -6,3 +6,4 @@
 5. Stage file changes: **git add**
 6. Save file changes with a description on what was updated: **git commit -m**
 7. Map a remote repository to your local repository: **git remote add**
+8. Upload commits on a local branch to a remote repository: **git push -u origin**
