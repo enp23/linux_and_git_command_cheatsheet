@@ -8,3 +8,4 @@
 7. Map a remote repository to your local repository: **git remote add**
 8. Upload commits on alocal branch to a remote repository: **git push -u origin**
 9. List all branches in the repository: **git branch**
+10. Switch to an existing branch: **git checkout**
