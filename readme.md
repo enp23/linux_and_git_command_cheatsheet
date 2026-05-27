@@ -11,3 +11,4 @@
 10. Switch to an existing branch: **git checkout**
 11. Create a new branch and switch into it: **git checkout -b**
 12. Display history of commits made: **git log**
+13. Combines changes from a branch into another branch: **git merge**
