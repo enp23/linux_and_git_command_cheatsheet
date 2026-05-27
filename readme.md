@@ -6,7 +6,7 @@
 5. Stage file changes: **git add**
 6. Save file changes with a description on what was updated: **git commit -m**
 7. Map a remote repository to your local repository: **git remote add**
-8. Upload commits on alocal branch to a remote repository: **git push -u origin**
+8. Upload commits on a local branch to a remote repository: **git push -u origin**
 9. List all branches in the repository: **git branch**
 10. Switch to an existing branch: **git checkout**
 11. Create a new branch and switch into it: **git checkout -b**
