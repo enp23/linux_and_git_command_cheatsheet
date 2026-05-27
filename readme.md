@@ -12,3 +12,4 @@
 11. Create a new branch and switch into it: **git checkout -b**
 12. Display history of commits made: **git log**
 13. Combines changes from a branch into another branch: **git merge**
+14. Delete a local branch: **git branch -d**
